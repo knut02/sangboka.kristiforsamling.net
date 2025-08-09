@@ -1,2 +1,8 @@
+# netlify.toml
+[build]
+publish = "_site"
+# onPreBuild kjører før build-kommando; plugin sørger for Quarto.
+command = "quarto install tinytex --no-prompt"
+
 [[plugins]]
 package = "@quarto/netlify-plugin-quarto"
