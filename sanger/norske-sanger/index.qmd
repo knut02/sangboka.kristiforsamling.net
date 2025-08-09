@@ -1,0 +1,14 @@
+---
+title: Norske sanger
+format:
+  html: default
+listing:
+  contents: "*.*"
+  type: grid
+  fields: [title]
+  sort-ui: [title , categories]
+  filter-ui: [title]
+  page-size: 66
+  categories: true
+---
+ 

@@ -1,0 +1,251 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Sangboka"
+  author: "Jane Doe"
+
+  chapters:
+    - index.qmd
+    - endringer.qmd
+    - ta-kontakt.qmd
+    # ********************************************
+    # Engelske sanger begynner her
+    # ********************************************
+    - sanger/engelske-sanger/index.qmd
+    - sanger/engelske-sanger/10000-reasons.qmd
+    - sanger/engelske-sanger/a-better-life.qmd
+    - sanger/engelske-sanger/a-migthy-fortress.qmd
+    - sanger/engelske-sanger/abide-with-me.qmd
+    - sanger/engelske-sanger/above-all.qmd
+    - sanger/engelske-sanger/aint-no-rock.qmd
+    - sanger/engelske-sanger/all-heaven-declares.qmd
+    - sanger/engelske-sanger/all-night-all-day.qmd
+    - sanger/engelske-sanger/all-the-earth.qmd
+    - sanger/engelske-sanger/all-to-jesus-i-surrender.qmd
+    - sanger/engelske-sanger/amazing-grace.qmd
+    - sanger/engelske-sanger/anchor-for-the-soul.qmd
+    - sanger/engelske-sanger/ancient-words.qmd
+    - sanger/engelske-sanger/angus-dei.qmd
+    - sanger/engelske-sanger/awesome.qmd
+    - sanger/engelske-sanger/be-still-my-soul.qmd
+    - sanger/engelske-sanger/be-with-me-lord.qmd
+    - sanger/engelske-sanger/beautiful-heart.qmd
+    - sanger/engelske-sanger/breathe.qmd
+    - sanger/engelske-sanger/call-upon-the-lord.qmd
+    - sanger/engelske-sanger/come-now-is-the-time-to-worship.qmd
+    - sanger/engelske-sanger/crossing-over.qmd
+    - sanger/engelske-sanger/dont-you-want-to-go-to-that-land.qmd
+    - sanger/engelske-sanger/down-by-the-riverside.qmd
+    - sanger/engelske-sanger/draw-me-close-to-you.qmd
+    - sanger/engelske-sanger/encourage-my-soul.qmd
+    # Even greater things
+    - sanger/engelske-sanger/father.qmd
+    - sanger/engelske-sanger/follow-that-man.qmd
+    - sanger/engelske-sanger/forever.qmd
+    - sanger/engelske-sanger/give-me-life.qmd
+    # Give me that old time religion
+    - sanger/engelske-sanger/give-thanks-to-the-lord.qmd
+    - sanger/engelske-sanger/glory-be-to-jesus.qmd
+    - sanger/engelske-sanger/glory-glory-hallelujah.qmd
+    - sanger/engelske-sanger/good-and-gracious-king.qmd
+    - sanger/engelske-sanger/good-good-father.qmd
+    - sanger/engelske-sanger/goodness-of-god.qmd
+    - sanger/engelske-sanger/grace.qmd
+    - sanger/engelske-sanger/great-in-power.qmd
+    - sanger/engelske-sanger/hallelujah-we-sing-your-praises-loud.qmd
+    - sanger/engelske-sanger/hallelujah.qmd
+    - sanger/engelske-sanger/heart-mind-and-soul.qmd
+    - sanger/engelske-sanger/heart-of-worship.qmd
+    - sanger/engelske-sanger/here-i-am-to-worship.qmd
+    - sanger/engelske-sanger/hes-exalted.qmd
+    # He's my lord
+    # Hiding place
+    - sanger/engelske-sanger/high-above.qmd
+    - sanger/engelske-sanger/holy-father.qmd
+    - sanger/engelske-sanger/home-in-heaven.qmd
+    - sanger/engelske-sanger/hosanna.qmd
+    - sanger/engelske-sanger/how-great-is-our-god.qmd
+    - sanger/engelske-sanger/humble-thyself.qmd
+    - sanger/engelske-sanger/i-believe-in-jesus.qmd
+    - sanger/engelske-sanger/i-can-only-imagine.qmd
+    - sanger/engelske-sanger/i-feel-good.qmd
+    - sanger/engelske-sanger/i-hear-god-singing-to-me.qmd
+    - sanger/engelske-sanger/i-need-your-love.qmd
+    - sanger/engelske-sanger/i-surrender-all.qmd
+    - sanger/engelske-sanger/i-want-to-know-your-peace.qmd
+    - sanger/engelske-sanger/i-will-call-upon-the-lord.qmd
+    - sanger/engelske-sanger/i-will-celebrate.qmd
+    - sanger/engelske-sanger/im-not-ashamed.qmd
+    - sanger/engelske-sanger/in-christ-alone.qmd
+    - sanger/engelske-sanger/in-the-kingdom.qmd
+    - sanger/engelske-sanger/in-the-river.qmd
+    - sanger/engelske-sanger/in-your-freedom.qmd
+    - sanger/engelske-sanger/indescribable.qmd
+    - sanger/engelske-sanger/it-is-well.qmd
+    - sanger/engelske-sanger/jesus-is-lord.qmd
+    # Jesus the same
+    # Jesus will fix it
+    - sanger/engelske-sanger/joshua-fit-the-battle-of-jericho.qmd
+    - sanger/engelske-sanger/kumbaya.qmd
+    - sanger/engelske-sanger/lamb-of-god.qmd
+    - sanger/engelske-sanger/lead-me-to-calvary.qmd
+    # Lead me to some soul today
+    - sanger/engelske-sanger/lead-me-to-the-cross.qmd
+    - sanger/engelske-sanger/lead-me-to-the-rock.qmd
+    - sanger/engelske-sanger/let-it-rise.qmd
+    - sanger/engelske-sanger/lord-come-and-heal-your-church.qmd
+    - sanger/engelske-sanger/lord-god-almighty.qmd
+    - sanger/engelske-sanger/lord-have-mercy.qmd
+    - sanger/engelske-sanger/lord-of-all.qmd
+    - sanger/engelske-sanger/lord-reign-in-me.qmd
+    # Men who dream
+    - sanger/engelske-sanger/mighty-to-save.qmd
+    - sanger/engelske-sanger/more-love-more-power.qmd
+    - sanger/engelske-sanger/my-hope-is-built-on-nothing-less.qmd
+    - sanger/engelske-sanger/my-jesus-my-saviour.qmd
+    - sanger/engelske-sanger/nearer-still-nearer.qmd
+    - sanger/engelske-sanger/nobody-knows.qmd
+    - sanger/engelske-sanger/non-nobis.qmd
+    - sanger/engelske-sanger/ocean.qmd
+    - sanger/engelske-sanger/on-his-victory-train.qmd
+    - sanger/engelske-sanger/on-my-way-to-heaven.qmd
+    # On the mountain of the lord
+    - sanger/engelske-sanger/one-heart-mind-and-soul.qmd
+    - sanger/engelske-sanger/only-by-grace.qmd
+    - sanger/engelske-sanger/open-the-eyes-of-my-heart.qmd
+    - sanger/engelske-sanger/our-father-in-heaven.qmd
+    - sanger/engelske-sanger/our-god-is-an-awesome-god.qmd
+    - sanger/engelske-sanger/our-god.qmd
+    - sanger/engelske-sanger/praise-the-lord-o-my-soul.qmd
+    - sanger/engelske-sanger/praises-heard-around-the-world.qmd
+    - sanger/engelske-sanger/prepare-the-way.qmd
+    - sanger/engelske-sanger/prince-of-peace.qmd
+    - sanger/engelske-sanger/psalm-62.qmd
+    - sanger/engelske-sanger/rejoice-in-the-law-of-the-lord.qmd
+    - sanger/engelske-sanger/rejoice-in-the-lord.qmd
+    - sanger/engelske-sanger/remember.qmd
+    - sanger/engelske-sanger/rescue.qmd
+    - sanger/engelske-sanger/rescuer.qmd
+    # Rise up o men of God
+    - sanger/engelske-sanger/sanctuary.qmd
+    - sanger/engelske-sanger/shut-de-do.qmd
+    - sanger/engelske-sanger/silence-now.qmd
+    - sanger/engelske-sanger/simple-faith.qmd
+    - sanger/engelske-sanger/sing-all-nations.qmd
+    - sanger/engelske-sanger/sing-hallelujah-to-the-lord.qmd
+    - sanger/engelske-sanger/soon-and-very-soon.qmd
+    - sanger/engelske-sanger/still.qmd
+    - sanger/engelske-sanger/swing-low-sweet-chariot.qmd
+    - sanger/engelske-sanger/that-holy-city.qmd
+    - sanger/engelske-sanger/the-battle-belongs-to-the-lord.qmd
+    - sanger/engelske-sanger/the-blood-that-jesus-shed-for-me.qmd
+    - sanger/engelske-sanger/the-greatest-love.qmd
+    - sanger/engelske-sanger/the-law-of-the-lord.qmd
+    - sanger/engelske-sanger/the-more-i-seek-you.qmd
+    - sanger/engelske-sanger/the-remembrance.qmd
+    - sanger/engelske-sanger/the-spirits-fire.qmd
+    - sanger/engelske-sanger/the-wonderful-cross.qmd
+    - sanger/engelske-sanger/there-is-none-like-you.qmd
+    - sanger/engelske-sanger/this-little-light.qmd
+    - sanger/engelske-sanger/thy-word.qmd
+    - sanger/engelske-sanger/to-know-your-name.qmd
+    - sanger/engelske-sanger/to-you-lord.qmd
+    - sanger/engelske-sanger/to-know-your-name.qmd
+    - sanger/engelske-sanger/united-with-you.qmd
+    - sanger/engelske-sanger/victory-in-jesus.qmd
+    - sanger/engelske-sanger/wade-in-the-water-cassidy.qmd
+    - sanger/engelske-sanger/wade-in-the-water-dylan.qmd
+    - sanger/engelske-sanger/way-maker.qmd
+    - sanger/engelske-sanger/we-are-friends.qmd
+    - sanger/engelske-sanger/we-shall-overcome.qmd
+    - sanger/engelske-sanger/we-will-glorify.qmd
+    - sanger/engelske-sanger/when-israel-was-in-egypts-land.qmd
+    - sanger/engelske-sanger/who-am-i.qmd
+    - sanger/engelske-sanger/you-are-everything.qmd
+    - sanger/engelske-sanger/you-are-good.qmd
+    - sanger/engelske-sanger/you-are-holy.qmd
+    - sanger/engelske-sanger/you-are-my-hiding-place.qmd
+    - sanger/engelske-sanger/you-are-my-lord.qmd
+    - sanger/engelske-sanger/you-are-my-strength.qmd
+    - sanger/engelske-sanger/you-are-still-holy.qmd
+    - sanger/engelske-sanger/you-make-me.qmd
+
+    # *********************************************************
+    # Norske sanger begynner her
+    # *********************************************************
+    - sanger/norske-sanger/index.qmd
+    - sanger/norske-sanger/alt-for-jesu-fot-jeg-legger.md
+    - sanger/norske-sanger/bare-i-deg.md
+    - sanger/norske-sanger/bare-pa-grunn-av-din-nade.md
+    - sanger/norske-sanger/det-er-godt.md
+    - sanger/norske-sanger/det-hev-ei-rose-sprunge.md
+    - sanger/norske-sanger/du-er-min-vei.md
+    - sanger/norske-sanger/du-gav-meg-tro.md
+    - sanger/norske-sanger/du-skinner.md
+    - sanger/norske-sanger/eg-er-din.md
+    - sanger/norske-sanger/finnes-som-jesus-en-venn-i-noden.md
+    - sanger/norske-sanger/gideon.md
+    - sanger/norske-sanger/gud-gjor-din-kirke-hel.md
+    - sanger/norske-sanger/gud-vi-synger-hoyt-din-pris.md
+    - sanger/norske-sanger/ha-din-lyst-og-glede-i-herren.md
+    - sanger/norske-sanger/halleluja.md
+    - sanger/norske-sanger/heilage-fader.md
+    - sanger/norske-sanger/hellig-hellig-hellig.md
+    - sanger/norske-sanger/herre-takk.md
+    - sanger/norske-sanger/herren-er-gud.md
+    - sanger/norske-sanger/herren-er-sterk.md
+    - sanger/norske-sanger/herren-skal-stride-for-deg.md
+    - sanger/norske-sanger/hjerteslag.md
+    - sanger/norske-sanger/hvem-er-det-du-lever-for.md
+    - sanger/norske-sanger/hvor-stor-er-var-gud.md
+    - sanger/norske-sanger/i-himmelen-i-himmelen.md
+    - sanger/norske-sanger/jeg-horer-gud-synge-til-meg.md
+    - sanger/norske-sanger/jeg-takker-deg.md
+    - sanger/norske-sanger/kjaerleik-kjaerleik.md
+    - sanger/norske-sanger/kom-kom-og-hor-et-gledens-ord.md
+    - sanger/norske-sanger/konge-over-alt.md
+    - sanger/norske-sanger/kumbaya.md
+    - sanger/norske-sanger/la-lyset.md
+    - sanger/norske-sanger/la-meg-vaere-rettferdig.md
+    - sanger/norske-sanger/laer-meg-a-kjenne-dine-veier.md
+    - sanger/norske-sanger/laer-meg-kjaerleik.md
+    - sanger/norske-sanger/laudate-omnes-gentes.md
+    - sanger/norske-sanger/leg-meg-herre.md
+    - sanger/norske-sanger/lovet-vaere-gud.md
+    - sanger/norske-sanger/med-jesus-vil-eg-fara.md
+    - sanger/norske-sanger/mer-nade-mer-kraft.md
+    - sanger/norske-sanger/min-gud.md
+    - sanger/norske-sanger/mitt-hjerte-alltid-vanker.md
+    - sanger/norske-sanger/o-bli-hos-meg.md
+    - sanger/norske-sanger/roper-du-til-herren.md
+    - sanger/norske-sanger/salme-51.md
+    - sanger/norske-sanger/salme-61.md
+    - sanger/norske-sanger/salme-127.md
+    - sanger/norske-sanger/seier-seier.md
+    - sanger/norske-sanger/sok-herren.md
+    - sanger/norske-sanger/syng-amen-amen.md
+    - sanger/norske-sanger/syng-det-ut.md
+    - sanger/norske-sanger/syng-for-herren.md
+    - sanger/norske-sanger/syng-lovsang.md
+    - sanger/norske-sanger/syng-ut.md
+    - sanger/norske-sanger/thuma-mina.md
+    - sanger/norske-sanger/uendelig.md
+    - sanger/norske-sanger/vaer-hos-meg-gud.md
+    - sanger/norske-sanger/vår-gud-han-er-sa-fast-en-borg.md
+    - sanger/norske-sanger/vend-ditt-blikk-mot-fjellets-topp.md
+    - sanger/norske-sanger/vi-vil-prise-deg.md
+    - sanger/norske-sanger/vil-du-bli-med.md
+    - sanger/norske-sanger/ydmyk-av-hjertet.md
+    - sanger/norske-sanger/aere-i-det-hoyeste.md
+
+bibliography: references.bib
+
+format:
+  pdf:
+    number-depth: 1
+    number-sections: false
+  epub:
+    cover-image: cover.png
+    number-depth: 1

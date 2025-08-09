@@ -1,0 +1,48 @@
+---
+title: Endringer
+toc: true
+page-layout: full
+number-sections: false
+weight: 5
+format:
+    html: default
+base-link: https://sangboka.kristiforsamling.net/sanger/
+---
+
+Oversikt over endringer som er gjort i sangboka.  
+
+##### 2023.11.18 {.unnumbered}
+
+- Nye sanger: [Goodness of God]({{< meta base-link >}}engelske-sanger/goodness-of-god/), [Ocean]({{< meta base-link >}}engelske-sanger/ocean/)
+
+
+##### 2023.02.11 {.unnumbered}
+
+- Nye sanger: [Prepare the way]({{< meta base-link >}}engelske-sanger/prepare-the-way/)
+
+##### 2022.06.14 {.unnumbered}
+
+- Andre endringer: Har lagt til Youtube linker på 89 sanger.
+
+##### 2022.06.12 {.unnumbered}
+
+- Nye sanger: [In the river]({{< meta base-link >}}engelske-sanger/in-the-river/)
+
+##### 2022.04.21 {.unnumbered}
+
+- Andre endringer: Sangboka flyttet til kristiforsamling.net  
+- Nye sanger: [All to Jesus I surrender]({{< meta base-link >}}engelske-sanger/all-to-jesus-i-surrender/)
+
+##### 2022.03.29 {.unnumbered}
+
+- Nye sanger: Awesome, Let it rise, Way maker, Anchor for the soul  
+- Oppdaterte sanger: I hear God singing to me, 10 000 reasons, You are good(?)  
+
+##### 2020.02.17 {.unnumbered}
+
+- Andre endringer: Ny versjon lastet opp på nettet  
+- Nye sanger: Rescuer, Hjerteslag  
+
+##### 2020.01.26 {.unnumbered}
+
+- Nye sanger: Uendelig, Mighty to save, Good and gracious king  

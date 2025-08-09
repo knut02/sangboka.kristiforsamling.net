@@ -1,0 +1,41 @@
+project:
+  type: website
+
+website:
+  title: "Sangboka"
+  bread-crumbs: true  
+  page-navigation: true
+  back-to-top-navigation: true
+
+  page-footer:
+    left: "Website copyright by its creator"
+    center: "Website created by Quarto"
+    right: "Songs copyright their respective authors"
+  navbar: 
+    background: primary
+    search: true
+    left: 
+      - href: sanger/index.qmd
+        text: Alle sanger
+        aria-label: Alle sanger
+      - href: nedlastinger.qmd
+        text: Laste ned
+        aria-label: Last ned
+      - href: endringer.qmd
+        text: Endringer
+        aria-label: Endringer
+      - href: ta-kontakt.qmd
+        text: Ta kontakt
+        aria-label: Ta kontakt
+    right:
+      - href: https://kristiforsamling.net
+        text: Kristiforsamling.net
+        aria-label: Kristiforsamling.net
+  sidebar:
+    style: "floating"
+    search: false
+    contents: auto
+
+format:
+  html:
+    theme: flatly

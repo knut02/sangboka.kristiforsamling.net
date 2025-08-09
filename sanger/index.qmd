@@ -1,0 +1,25 @@
+---
+title: Alle sanger
+toc: false
+format:
+  html: default
+listing:
+  id : alle-sanger
+  contents: 
+    - norske-sanger/*.md
+    - engelske-sanger/*.qmd
+    - julesanger/*.md
+  type: grid
+  grid-columns: 4
+  grid-item-border: false
+  fields: [title ]
+  filter-ui: [title , categories]
+  sort-ui: false
+  page-size: 66
+  categories: false
+---
+
+Her finner du alle sangene som finnes i sangboka, alfabetisk sortert på tittel. 
+
+::: {#alle-sanger}
+:::
