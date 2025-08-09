@@ -9,7 +9,7 @@ listing:
   sort-ui: [title , categories]
   filter-ui: [title]
   page-size: 66
-  categories: true
+  categories: false
 ---
  
  Denne delen inneholder sanger på engelsk.

@@ -2,7 +2,7 @@
 title: 10,000 Reasons
 youtube: DXDGE_lRI0E
 categories:
- - engelske sanger
+ - Engelske sanger
 title-block-banner: false
 author:
  - name: Matt Redman
