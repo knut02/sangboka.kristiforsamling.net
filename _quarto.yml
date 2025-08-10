@@ -9,7 +9,7 @@ website:
 
   page-footer:
     left: "Website copyright by its creator"
-    center: "Website created by Quarto"
+    center: "Website created with Quarto"
     right: "Songs copyright their respective authors"
   navbar: 
     background: primary
