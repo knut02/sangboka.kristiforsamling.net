@@ -14,19 +14,7 @@ website:
   navbar: 
     background: primary
     search: true
-    left: 
-      - href: sanger/index.qmd
-        text: Alle sanger
-        aria-label: Alle sanger
-      - href: nedlastinger.qmd
-        text: Laste ned
-        aria-label: Last ned
-      - href: endringer.qmd
-        text: Endringer
-        aria-label: Endringer
-      - href: ta-kontakt.qmd
-        text: Ta kontakt
-        aria-label: Ta kontakt
+
     right:
       - href: https://kristiforsamling.net
         text: Kristiforsamling.net
