@@ -105,9 +105,9 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./ta-kontakt.html">Trenger du hjelp?</a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
+        <a class="flex-grow-1 no-decor" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+          <h1 class="quarto-secondary-nav-title">Trenger du hjelp?</h1>
+        </a>     
     </div>
   </nav>
 </header>
@@ -1615,23 +1615,43 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Trenger du hjelp?</h1>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    
+<header class="quarto-title-block default">
+  <h1 class="title d-none d-lg-block display-7">Trenger du hjelp?</h1>
   
-    
-  </div>
   
 
-
+  <p class="ext-links">
+    
+      </p>
 </header>
+
+<style>
+/* enkel layout for lenkerekken */
+.ext-links {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-top: .25rem;
+}
+.ext-link {
+  display: inline-flex;
+  gap: .4em;
+  align-items: center;
+  text-decoration: none;
+}
+.icon {
+  width: 1.1em;
+  height: 1.1em;
+  display: inline-block;
+}
+/* valgfrie farger som matcher brand */
+.ext-link.yt { color: #ff0033; }
+.ext-link.sp { color: #1DB954; }
+
+/* hvis du vil bruke arvestil i stedet:
+.ext-link { color: inherit; }
+*/
+</style>
 
 
 <p>Ved behov for teknisk hjelp, forslag til nye sanger eller andre endringer så kan Knut kontaktes.</p>
@@ -2060,7 +2080,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Website created with Quarto</p>
 </div>
     <div class="nav-footer-right">
-<p>Songs copyright their respective authors</p>
+<p>Songs copyright their respective 1s</p>
 </div>
   </div>
 </footer>

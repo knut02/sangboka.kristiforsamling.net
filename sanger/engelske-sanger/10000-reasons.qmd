@@ -1,6 +1,7 @@
 ---
 title: 10,000 Reasons
 youtube: DXDGE_lRI0E
+spotify: 0fxpHpK3aw2nFWII6yveDD
 categories:
  - Engelske sanger
 title-block-banner: false
