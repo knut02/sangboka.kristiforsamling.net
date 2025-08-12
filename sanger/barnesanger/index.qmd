@@ -1,0 +1,16 @@
+---
+title: Barnesanger
+format:
+  html: default
+listing:
+  id : barne-sanger
+  contents: "*.*"
+  type: grid
+  fields: [title]
+  filter-ui: [title]
+  page-size: 66
+  categories: false
+---
+
+::: {#barne-sanger}
+:::

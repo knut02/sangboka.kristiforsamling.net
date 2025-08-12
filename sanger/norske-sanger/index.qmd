@@ -1,0 +1,16 @@
+---
+title: Norske sanger
+format:
+  html: default
+listing:
+  id : norske-sanger
+  contents: "*.*"
+  type: grid
+  fields: [title]
+  filter-ui: [title]
+  page-size: 66
+  categories: false
+---
+
+::: {#norske-sanger}
+:::

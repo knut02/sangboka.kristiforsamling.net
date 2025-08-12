@@ -1,0 +1,21 @@
+---
+title: Engelske sanger
+toc: false
+format:
+  html: default
+listing:
+  id : engelske-sanger
+  contents: "*.qmd"
+  type: grid
+  grid-columns: 4
+  grid-item-border: false
+  fields: [title]
+  filter-ui: [title]
+  page-size: 66
+  categories: false
+---
+
+ Denne delen inneholder sanger på engelsk. 
+
+::: {#engelske-sanger}
+:::

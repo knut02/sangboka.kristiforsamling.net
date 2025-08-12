@@ -1,0 +1,16 @@
+---
+title: Julesanger
+format:
+  html: default
+listing:
+  id : jule-sanger
+  contents: "*.*"
+  type: grid
+  fields: [title]
+  filter-ui: [title]
+  page-size: 66
+  categories: false
+---
+
+::: {#jule-sanger}
+:::
