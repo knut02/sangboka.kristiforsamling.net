@@ -1639,10 +1639,12 @@ ul.task-list li input[type="checkbox"] {
       <span>Spotify</span>
     </a>
       </p>
-</header>
-
+<!-- Sitat blokk
+    <blockquote class="sitat">’Praise the Lord, my soul; all my inmost being, praise his holy name. Praise the Lord, my soul, and forget not all his benefits – who forgives all your sins and heals all your diseases, who redeems your life from the pit and crowns you with love and compassion, who satisfies your desires with good things so that your youth is renewed like the eagle’s.‘ (NIV). Psalm 103.1 - 5</blockquote>
+  </header>
+-->
 <style>
-/* enkel layout for lenkerekken */
+/* lenker på én linje */
 .ext-links {
   display: flex;
   gap: 1rem;
@@ -1660,22 +1662,22 @@ ul.task-list li input[type="checkbox"] {
   height: 1.1em;
   display: inline-block;
 }
-/* valgfrie farger som matcher brand */
+/* brand-farger (valgfritt) */
 .ext-link.yt { color: #ff0033; }
 .ext-link.sp { color: #1DB954; }
 
-/* hvis du vil bruke arvestil i stedet:
-.ext-link { color: inherit; }
-*/
+/* sitat-boks under lenkene */
+.sitat {
+  margin-top: .5rem;
+  padding: .75rem 1rem;
+  border-left: 4px solid #ddd;
+  background: rgba(0,0,0,0.02);
+  font-style: italic;
+  white-space: pre-line; /* bevar linjeskift fra YAML */
+}
 </style>
 
 
-<blockquote class="blockquote">
-<p>’Praise the Lord, my soul; all my inmost being, praise his holy name. Praise the Lord, my soul, and forget not all his benefits – who forgives all your sins and heals all your diseases, who redeems your life from the pit and crowns you with love and compassion, who satisfies your desires with good things so that your youth is renewed like the eagle’s.‘ (NIV)</p>
-</blockquote>
-<blockquote class="blockquote">
-<p>Psalm 103.1 - 5</p>
-</blockquote>
 <p>[Chorus]<br>
 Bless the Lord, O my soul<br>
 O my soul<br>
@@ -1732,7 +1734,7 @@ I’ll worship Your holy name</p>
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+</header><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

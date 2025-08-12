@@ -1621,10 +1621,11 @@ ul.task-list li input[type="checkbox"] {
   <p class="ext-links">
     
       </p>
-</header>
+
+  </header>
 
 <style>
-/* enkel layout for lenkerekken */
+/* lenker på én linje */
 .ext-links {
   display: flex;
   gap: 1rem;
@@ -1642,13 +1643,19 @@ ul.task-list li input[type="checkbox"] {
   height: 1.1em;
   display: inline-block;
 }
-/* valgfrie farger som matcher brand */
+/* brand-farger (valgfritt) */
 .ext-link.yt { color: #ff0033; }
 .ext-link.sp { color: #1DB954; }
 
-/* hvis du vil bruke arvestil i stedet:
-.ext-link { color: inherit; }
-*/
+/* sitat-boks under lenkene */
+.sitat {
+  margin-top: .5rem;
+  padding: .75rem 1rem;
+  border-left: 4px solid #ddd;
+  background: rgba(0,0,0,0.02);
+  font-style: italic;
+  white-space: pre-line; /* bevar linjeskift fra YAML */
+}
 </style>
 
 
