@@ -1,10 +1,6 @@
 ---
 title: Wade in the water - Eva Cassidy
 categories: Engelske sanger
-toc: true
-format: 
-    html: default
-    pdf: default
 ---
 
 Wade in the water  

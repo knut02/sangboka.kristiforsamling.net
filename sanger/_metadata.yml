@@ -1,0 +1,13 @@
+format:
+  html:
+    toc: true
+  typst:
+    papersize: a4
+    number-sections: false
+
+# (valgfritt) kontroller hvilke lenker som vises og tekst/ikon
+format-links:
+  - html
+  - format: typst
+    text: Last ned pdf
+    icon: file-pdf

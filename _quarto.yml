@@ -1,6 +1,8 @@
 project:
   type: website
 
+lang: nb
+
 website:
   title: "Sangboka"
   bread-crumbs: false 

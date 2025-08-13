@@ -1,5 +1,6 @@
 ---
 title: Barnesanger
+order: 4
 format:
   html: default
 listing:

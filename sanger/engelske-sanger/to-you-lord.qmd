@@ -1,10 +1,6 @@
 ---
 title: To you Lord
 categories: Engelske sanger
-toc: true
-format: 
-    html: default
-    pdf: default
 ---
 
 O To you, O Lord, I lift my soul  
@@ -17,7 +13,7 @@ O My eyes are ever on the Lord
 He who knows my weakness and my faults  
 Lord, guard my life and rescue me  
 Let my enemies be put to shame  
-For I take refuge in you and you deliever me
+For I take refuge in you and you deliver
 
 O Be merciful to me, O Lord  
 Take away all my iniquity  

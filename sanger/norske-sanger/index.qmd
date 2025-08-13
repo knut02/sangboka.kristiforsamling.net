@@ -1,5 +1,6 @@
 ---
 title: Norske sanger
+order: 2
 format:
   html: default
 listing:

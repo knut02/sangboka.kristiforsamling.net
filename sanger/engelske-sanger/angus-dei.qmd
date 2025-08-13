@@ -2,6 +2,7 @@
 title: Angus Dei
 categories: "Engelske sanger"
 youtube: KVFzxazTQNM
+spotify: 1N9SysNAP8j4wbAIHzlM9m
 author:
  - name: Michael W. Smith
    role: "Writer"

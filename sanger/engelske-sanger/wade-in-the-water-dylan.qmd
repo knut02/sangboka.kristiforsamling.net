@@ -1,10 +1,6 @@
 ---
 title: Wade in the water - Bob Dylan
 categories: Engelske sanger
-toc: true
-format: 
-    html: default
-    pdf: default
 ---
 
 Wade in the water  
