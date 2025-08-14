@@ -4,15 +4,15 @@ project:
 lang: nb
 
 website:
-  title: "Sangboka"
+  title: "Sangbok"
   bread-crumbs: false 
   page-navigation: true
-  back-to-top-navigation: true
+  back-to-top-navigation: false
 
   page-footer:
     left: "Website copyright by its creator"
     center: "Website created with Quarto"
-    right: "Songs copyright their respective 1s"
+    right: "Songs copyright their respective authors"
   navbar: 
     background: primary
     search: true
